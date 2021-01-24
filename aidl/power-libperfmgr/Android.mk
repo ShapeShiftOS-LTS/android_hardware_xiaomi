@@ -25,6 +25,7 @@ LOCAL_MODULE_RELATIVE_PATH := hw
 
 LOCAL_SHARED_LIBRARIES := \
     android.hardware.power-ndk_platform \
+    libadpf-pixel \
     libbase \
     libbinder_ndk \
     libcutils \
